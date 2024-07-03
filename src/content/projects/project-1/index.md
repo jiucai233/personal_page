@@ -1,16 +1,28 @@
 ---
-title: "Project One"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 18 2022"
+title: "using-extra-tree-model-to-predict-suicide-attempt-of-US-teens"
+summary: "as title"
+date: "2024.6.22"
 draft: false
 tags:
-- Astro
-- Javascript
-- Typescript
-- Tailwind
-- SolidJs
-demoUrl: https://astro-sphere-demo.vercel.app
-repoUrl: https://github.com/markhorn-dev/astro-sphere
+- Machine Learning
+- Data Analysis
+- Python
+- Medical Data
+demoUrl: https://etmodel2suiatt.streamlit.app
+repoUrl: https://github.com/jiucai233/using-extra-tree-model-to-predict-suicide-attempt-of-US-teens
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+This project is the final project of 2024-1 semester in Yonsei University 
+Applied Information Engineering major 
+Advanced Data Analysis course
+made by SHEN YINGJUN and KIM HYEJUN
+data are from USA Youth Risk Behaviour Surveilliance(YRBS)
+we used **EXTRA TREE MODEL** to predict the suicidal attempt of teenagers
+
+This project can be divided into 4 parts:
+1.data EDA and preprocessing
+2.using pycaret to predict the models' performance score (using AUC score as criteria)
+3.remodeling using scikit-learn
+4.web application
+
+I'm bit lazy, when i want i'll fill the detail information
