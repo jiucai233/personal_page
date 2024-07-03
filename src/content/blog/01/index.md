@@ -6,7 +6,7 @@ draft: false
 tags:
 - English
 - work
-- personal
+- personnal
 ---
 
 # hello, I am 申英君·신영군·Simon Shen
