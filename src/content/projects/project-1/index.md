@@ -25,4 +25,4 @@ This project can be divided into 4 parts:
 3.remodeling using scikit-learn
 4.web application
 
-I'm bit lazy, when i want i'll fill the detail information
+More information were included in the report, you can find that report in my github repo. Unfortunatelly it's in Korean
