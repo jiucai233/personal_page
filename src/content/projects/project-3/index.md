@@ -1,12 +1,11 @@
 ---
-title: "Project Three"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 16 2022"
-draft: True
+title: "REVO"
+summary: "the website for 5th GLC foreign student council, and updated the living tips for freshman"
+date: "2024.8.10"
+draft: False
 tags:
-- Vue
-- Javascript
-- Tailwind
+- Astro
 ---
+This website used same template as my personal website and same Astro structure. Firstly we want to make the living tips for freshman and print it into guidebook. But after, we noticed that the speciality of our responsible for this guidebook. There should be 4 languages, and for printing, distributing are really confusing and stressful for us (The president and me are the first time to be in the student council). Counsequently, we decided to make it into webpage. If our student council survived for years, I'll consider to turn it into a official page of student council.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+And for the technical details. I used Astro template and modified nearly all of the contents in the template. For web deployment, I used Vercel, which is a great platform to deploy the light project.
