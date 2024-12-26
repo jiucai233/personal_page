@@ -1,6 +1,6 @@
 ---
-title: "REVO"
-summary: "the website for 5th GLC foreign student council, and updated the living tips for freshman"
+title: "GLC_foreign_student_council_website"
+summary: "the website for 6th GLC foreign student council, and updated the living tips for freshman"
 date: "2024.8.10"
 draft: False
 tags:
