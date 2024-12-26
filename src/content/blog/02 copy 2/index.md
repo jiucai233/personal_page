@@ -12,4 +12,3 @@ This name was created in my primary school. That time I love playing football, s
 
 ## also about my profile picture(pfp)
 #### I drawed it
-![Test Relative Image](./pfp.jpg)
